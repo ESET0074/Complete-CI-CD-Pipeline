@@ -15,3 +15,4 @@ with open(file_path, "w") as file:
     file.write(new_content)
 
 print(f"✅ Updated deployment.yaml with image tag: {new_tag}")
+#checking if updates made to image tag
