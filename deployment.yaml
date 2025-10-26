@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: my-cicd-container
-          image: docker.io/eset0074/my-cicd-app:Latest
+          image: docker.io/eset0074/my-cicd-app:1
           ports:
             - containerPort: 5000
